@@ -76,14 +76,6 @@ Large Language Models have numerous applications across industries:
 
 - **Creative Writing:** Generate poetry, stories, and scripts with stylistic coherence and creativity.
 
-## Contributing
-
-Contributions to this project are welcome! If you're interested in contributing, please check out our [Contributing Guidelines](CONTRIBUTING.md) to get started.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
+--
 
 Thank you for exploring the Large Language Model (LLM) repository. We hope this project inspires you to dive into the world of natural language processing and understand the incredible potential of large language models. If you have any questions or feedback, please feel free to reach out. Happy text tinkering! 📚🤖
