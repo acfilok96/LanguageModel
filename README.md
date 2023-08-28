@@ -11,19 +11,6 @@ Language Model which refers to advanced AI models like GPT-3.5 developed by Open
 
 Welcome to the Large Language Model (LLM) repository! This project is dedicated to exploring and utilizing state-of-the-art large language models to understand, generate, and manipulate natural language text.
 
-## Table of Contents
-
-- [Introduction](#introduction)
-- [Features](#features)
-- [Usage](#usage)
-- [Getting Started](#getting-started)
-  - [Installation](#installation)
-  - [Examples](#examples)
-- [Model](#model)
-- [Applications](#applications)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## Introduction
 
 Large Language Models (LLMs) are advanced machine learning models trained on massive amounts of text data. These models, such as OpenAI's GPT series, are designed to understand and generate human-like text. This repository serves as a playground for exploring the capabilities of LLMs and experimenting with various NLP tasks.
